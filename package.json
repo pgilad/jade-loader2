@@ -1,0 +1,21 @@
+{
+  "name": "jade-loader2",
+  "description": "Webpack new and improved jade loader",
+  "version": "1.0.0",
+  "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": "jade, loader, webpack",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "pgilad/jade-loader2",
+  "scripts": {},
+  "dependencies": {
+    "jade": "^1.11.0",
+    "loader-utils": "^0.2.12"
+  }
+}
