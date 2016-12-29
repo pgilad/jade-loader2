@@ -3,8 +3,8 @@
   "description": "Webpack new and improved jade loader",
   "version": "1.0.0",
   "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
-  "engines": {
-    "node": ">=5.0.0"
+ "engines": {
+    "node": ">=4"
   },
   "files": [
     "index.js"
