@@ -1,9 +1,9 @@
 {
   "name": "jade-loader2",
   "description": "Webpack new and improved jade loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
- "engines": {
+  "engines": {
     "node": ">=4"
   },
   "files": [
